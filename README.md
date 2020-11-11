@@ -1,4 +1,4 @@
-# Ryver_Banking_Platform
+# Joke Generator (Data Structures / Algorithms)
 ### Text (Joke) Generator Backend
 * Backend REST api to serve text generator application
 * Text generator uses a Weighted Directed Graph
