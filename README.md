@@ -1,4 +1,5 @@
-# Text (Joke) Generator Backend
+# Ryver_Banking_Platform
+### Text (Joke) Generator Backend
 * Backend REST api to serve text generator application
 * Text generator uses a Weighted Directed Graph
 * Compiles down predictions to a Range Tree (RBT) to improve time complexity of non greedy predictions
