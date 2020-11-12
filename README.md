@@ -52,4 +52,4 @@ java ApiLoader
   "first_word": "",
   "max_length": 8
 }
-```# Ryver_Banking_Platform
+```
